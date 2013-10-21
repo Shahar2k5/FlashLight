@@ -33,3 +33,4 @@ And then we can set the flash off in the same way.
 params.setFlashMode(Parameters.FLASH_MODE_OFF);
 camera.setParameters(params);
 ```
+![solarized vim](https://github.com/Shahar2k5/FlashLight/blob/master/res/drawable-xxhdpi/framed_flash_light_demo.png?raw=true)
